@@ -21,6 +21,17 @@ The Financial News Screen delivers the latest updates from the world of finance.
 - **Finnhub.io**: For real-time stock price data.
 - **NewsAPI**: For aggregating financial news.
 
+## Screenshots:
+
+![Top Stocks Screen](page1.PNG)
+
+![Top Stocks Screen](page2.PNG)
+
+![Top Stocks Screen](page3.PNG)
+
+![Top Stocks Screen](menu.PNG)
+
+
 ## Getting Started
 
 To get started with MinimalistHub:
